@@ -1,5 +1,5 @@
 <h1>👋 Hi, I'm Quentin</h1>
-<h3 align="center">A passionate frontend developer from France living in Montréal 🇨🇦</h3>
+<h3>A passionate frontend developer from France living in Montréal 🇨🇦</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
