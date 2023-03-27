@@ -1,7 +1,7 @@
 <h1>👋 Hi, I'm Quentin</h1>
-<p>I'm a front end developer with a passion for simple designs, I'am from France and I living in Montréal</p>
+<p>I'am from France and I living in Montréal. I did the Web Development bootcamp at Lewagon Montréal. I'm a front end developer with a passion for simple designs, I am minimalist, and I really pay attention in the user experience. I try to make it very simple and smooth 🌿</p>
 
-<h3 align="left">📫Connect with me:</h3>
+<h3 align="left">📫 If you want to contact me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/quentin-doulcet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/quentin-doulcet/" height="30" width="40" /></a>
 </p>
