@@ -1,5 +1,6 @@
 <h1>👋 Hi, I'm Quentin</h1>
-<p>I'am from France and I living in Montréal. I did the Web Development bootcamp at Lewagon Montréal. I'm a front end developer with a passion for simple designs, I am minimalist, and I really pay attention in the user experience. I try to make it very simple and smooth 🌿</p>
+<a href="https://zupimages.net/viewer.php?id=23/13/89z4.png"><img src="https://zupimages.net/up/23/13/89z4.png" alt="" /></a>
+<p>I am from France and I living in Montréal. I did the Web Development bootcamp at Lewagon Montréal. I'm a front end developer with a passion for simple designs, I am minimalist, and I really pay attention in the user experience. I try to make it very simple and smooth 🌿</p>
 
 <h3 align="left">📫 If you want to contact me:</h3>
 <p align="left">
